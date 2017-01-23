@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="specialGroup">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="dessertGroup">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace pref="12" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lblHeader" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="197" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="selectShrimpBasket" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectHalfRibs" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectFullRibs" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectCFC" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectChickBasket" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectCod" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectLakePerch" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace pref="4" max="-2" attributes="0"/>
+                              <Component id="lblMain" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="72" pref="72" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="169" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="bClear" min="-2" pref="163" max="-2" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <Component id="bMessage" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="bSubmit" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="bDone" alignment="0" min="-2" pref="73" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="selectCheesecake" min="-2" max="-2" attributes="0"/>
+                                  <Component id="lblDessert" min="-2" max="-2" attributes="0"/>
+                                  <Component id="selectTurtleCheesecake" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="selectChocReason" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="selectCookie" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="selectDozen" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+              <Component id="lblHeader" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lblMain" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectHalfRibs" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectFullRibs" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectCFC" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectChickBasket" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectCod" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectLakePerch" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectShrimpBasket" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lblDessert" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectCheesecake" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectTurtleCheesecake" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectChocReason" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectCookie" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectDozen" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="bMessage" alignment="0" min="-2" pref="57" max="-2" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="bSubmit" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="bDone" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="bClear" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblHeader">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Specialties"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectHalfRibs">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Half Rack Ribs"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectFullRibs">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Full Rack Ribs"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectCFC">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Country Fried Chicken"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectChickBasket">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Chicken Strip Basket"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectCod">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cod Basket"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectLakePerch">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Lake Perch Dinner"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectShrimpBasket">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Shrimp Basket"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="bMessage">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Message"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bMessageActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="bSubmit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Submit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bSubmitActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="bDone">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Done"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bDoneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblMain">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Main Courses"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDessert">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Desserts"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectCheesecake">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cheesecake"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectTurtleCheesecake">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Turtle Cheesecake"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectChocReason">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Chocolate Beyond Reason"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectCookie">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cookie"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectDozen">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dozen Cookies"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="bClear">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Clear all"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bClearActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

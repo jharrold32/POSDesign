@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="sandwichGroup">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="228" max="-2" attributes="0"/>
+              <Component id="lblHeader" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="selectItalBeef" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectBBQBeef" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectMeatball" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectChickSandwich" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectGrinder" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectItalianSub" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectCheesesteakSandwich" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectComboSandwich" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectBuffChickSandwich" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="selectPhilly" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectItalSausage" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectSarasota" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectHamburger" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectHotDog" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectGyro" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectLakePerchSandwich" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectVeggieSandwich" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectEggplant" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="selectSouthwest" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace pref="82" max="32767" attributes="0"/>
+                      <Component id="checkBasket" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="bClear" min="-2" pref="163" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="bMessage" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="bSubmit" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="bDone" alignment="0" min="-2" pref="73" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblHeader" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="selectItalBeef" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="selectEggplant" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="selectBBQBeef" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="selectVeggieSandwich" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="selectMeatball" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="selectLakePerchSandwich" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="selectChickSandwich" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="selectGyro" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="selectGrinder" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="selectHotDog" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="selectItalianSub" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="selectHamburger" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="selectPhilly" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectItalSausage" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectSarasota" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                              <Component id="bMessage" alignment="3" min="-2" pref="57" max="-2" attributes="0"/>
+                              <Component id="checkBasket" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="bSubmit" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="bDone" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="selectCheesesteakSandwich" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectComboSandwich" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectBuffChickSandwich" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectSouthwest" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="9" max="32767" attributes="0"/>
+              <Component id="bClear" min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblHeader">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sandwiches"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectItalBeef">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Italian Beef"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectBBQBeef">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="BBQ Beef"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectMeatball">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Meatball"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectChickSandwich">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Italian Chicken Sandwich"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectGrinder">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Grinder"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectItalianSub">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Italian Sub"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectCheesesteakSandwich">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cheesesteak Sandwich"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectComboSandwich">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Combo Sandwich"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectBuffChickSandwich">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Buffalo Chicken Sandwich"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectSouthwest">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Southwest Chicken Sandwich"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectPhilly">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Philly-Buster Sandwich"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectItalSausage">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Italian Sausage"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectSarasota">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sarasota Sub"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectEggplant">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Eggplant Parmesan Sandwich"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectVeggieSandwich">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Veggie Sandwich"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectLakePerchSandwich">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Lake Perch Sandwich"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectGyro">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gyro"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectHotDog">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Hot Dog"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectHamburger">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Hamburger"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="bMessage">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Message"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bMessageActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="bSubmit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Submit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bSubmitActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="bDone">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Done"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bDoneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="checkBasket">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Basket"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="bClear">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Clear all"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bClearActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

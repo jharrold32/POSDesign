@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="appetizerGroup">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="287" max="-2" attributes="0"/>
+                              <Component id="lblMenuHeader" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="selectMineBowl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="selectCupSOTD" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="selectMineCup" min="-2" max="-2" attributes="0"/>
+                                  <Component id="selectGarBreadChs" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="selectSpinTomGar" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="selectBowlSOTD" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="selectJalaPop" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="selectOR" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="selectSupCombo" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="selectBrdStick" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="selectGarBread" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace pref="133" max="32767" attributes="0"/>
+                                      <Component id="bMessage" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="bSubmit" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="bDone" alignment="0" min="-2" pref="73" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="selectGallBread" min="-2" max="-2" attributes="0"/>
+                                          <Component id="selectBuffChickWing" min="-2" max="-2" attributes="0"/>
+                                          <Component id="selectHoneyDippeChickWings" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="selectBoneChickWings" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="selectChickStrip" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="selectSmallFri" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="selectLrgFri" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="selectBreadMush" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="selectStuffMush" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="selectChsCurd" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="selectMozzStick" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              <Component id="bClear" min="-2" pref="163" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="bMessage" alignment="0" min="-2" pref="57" max="-2" attributes="0"/>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="bSubmit" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="bDone" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="lblMenuHeader" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="selectMineCup" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectBuffChickWing" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="selectMineBowl" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectGallBread" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="selectCupSOTD" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectHoneyDippeChickWings" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="selectBowlSOTD" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectBoneChickWings" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectChickStrip" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectSmallFri" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="selectLrgFri" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectGarBreadChs" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="selectBreadMush" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectSpinTomGar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="selectStuffMush" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectJalaPop" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="selectChsCurd" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectOR" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="selectMozzStick" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="selectSupCombo" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectBrdStick" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="selectGarBread" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="bClear" min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblMenuHeader">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Appetizers"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="bMessage">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Message"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bMessageActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="bSubmit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Submit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bSubmitActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="bDone">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Done"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bDoneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectMineCup">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cup Minestrone"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectMineBowl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bowl Minestrone"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectCupSOTD">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cup - Soup of the Day"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectBowlSOTD">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bowl - Soup of the Day"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectBuffChickWing">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Buffalo Chicken Wings"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectGallBread">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gallagher&apos;s Bread"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectHoneyDippeChickWings">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Honey Dipped Chicken Wings"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectBoneChickWings">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Boneless Chicken Wings"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectChickStrip">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Chicken Strips"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectSmallFri">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Small Fries"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectLrgFri">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Large Fries"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectBreadMush">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Breaded Mushrooms"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectStuffMush">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Stuffed Mushroom Caps"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectChsCurd">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cheese Curds"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectMozzStick">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Mozzarella Sticks"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectBrdStick">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bread Sticks"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectGarBread">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Garlic Bread"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectGarBreadChs">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Garlic Bread w/ Cheese"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectSpinTomGar">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Spinach Tomato Garlic Bread w/ Cheese"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectJalaPop">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Jalapeno Poppers"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectOR">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Onion Rings"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="selectSupCombo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Supreme Combo Appetizer Basket"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="bClear">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Clear all"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bClearActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
